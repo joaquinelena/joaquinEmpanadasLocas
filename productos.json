@@ -1,0 +1,38 @@
+[
+    {
+        "nombre": "Carne Suave",
+        "precio": "1500",
+        "imagen": "carne_suave.png",
+        "descripcion": "Deliciosa empanada de carne suave."
+    },
+    {
+        "nombre": "Carne Cortada a Cuchillo",
+        "precio": "1600",
+        "imagen": "carne_cortada_a_cuchillo.png",
+        "descripcion": "Empanada con carne cortada a cuchillo."
+    },
+    {
+        "nombre": "Jamón y Queso",
+        "precio": "1700",
+        "imagen": "jamon_y_queso.png",
+        "descripcion": "Clásica combinación de jamón y queso."
+    },
+    {
+        "nombre": "Queso y Cebolla",
+        "precio": "2000",
+        "imagen": "queso_y_cebolla.png",
+        "descripcion": "Empanada con queso derretido y cebolla."
+    },
+    {
+        "nombre": "Pollo",
+        "precio": "1500",
+        "imagen": "pollo.png",
+        "descripcion": "Sabrosa empanada de pollo."
+    },
+    {
+        "nombre": "Humita",
+        "precio": "1600",
+        "imagen": "humita.png",
+        "descripcion": "Empanada dulce de humita."
+    }
+]
